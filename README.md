@@ -1,4 +1,6 @@
 # property-info
+Sample project using Vue.js and House Canary API.
+
 
 ## Project setup
 ```
